@@ -4,5 +4,7 @@ for i in range (10):
 	print (f"Number = : {i}")
 	cocktail
 	cocktail
+	cocktail
+	cocktail
 print("new")
 print("new")
