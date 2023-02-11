@@ -3,5 +3,6 @@ print ("Kent")
 for i in range (10):
 	print (f"Number = : {i}")
 	cocktail
+	cocktail
 print("new")
 print("new")
